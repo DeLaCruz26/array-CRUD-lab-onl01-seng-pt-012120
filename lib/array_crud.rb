@@ -28,8 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   add_element_to_end_of_array = ["wow", "I", "am", "really", "learning"]
-  
-  
+  add_element_to_end_of_array[2]
 end
 
 def retrieve_first_element_from_array(array)
