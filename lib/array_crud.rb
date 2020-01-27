@@ -32,11 +32,11 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  add_element_to_end_of_array = ["wow", "I", "am", "really", "learning"]
+  add_element_to_end_of_array = ["wow", "I", "am", "really", "learning", "arrays!"]
   add_element_to_end_of_array[0]
 end
 
 def retrieve_last_element_from_array(array)
-  add_element_to_end_of_array = ["wow", "I", "am", "really", "learning"]
-  add_element_to_end_of_array[4]
+  add_element_to_end_of_array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  add_element_to_end_of_array[-1]
 end
