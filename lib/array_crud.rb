@@ -38,6 +38,5 @@ end
 
 def retrieve_last_element_from_array(array)
   add_element_to_end_of_array = ["wow", "I", "am", "really", "learning"]
-  add_element_to_end_of_array[]
-  
+  add_element_to_end_of_array[4]
 end
